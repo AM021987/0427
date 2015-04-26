@@ -1,0 +1,4 @@
+﻿public class 0427
+{
+	System.out.printfln("ABC")
+}
