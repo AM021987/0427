@@ -1,5 +1,9 @@
 ﻿public class 0427
 {
 	System.out.printfln("ABC");
+<<<<<<< HEAD
 	System.out.printfln("123");
+=======
+	System.out.printfln("DEF");
+>>>>>>> develope
 }
