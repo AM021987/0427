@@ -1,4 +1,5 @@
 ﻿public class 0427
 {
-	System.out.printfln("ABC")
+	System.out.printfln("ABC");
+	System.out.printfln("DEF");
 }
